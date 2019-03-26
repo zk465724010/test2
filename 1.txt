@@ -3,4 +3,8 @@
 123456
 abcdefg
 
+<<<<<<< HEAD
 test1: 123
+=======
+test2:456
+>>>>>>> c8a9da9e3f52cc18a21e4cf7bb692507aa949b42
